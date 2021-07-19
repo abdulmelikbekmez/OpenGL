@@ -49,14 +49,14 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g  "
+					"fragment" : "-g"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 3,
-					"path" : "/home/abdulmelik/Projects/OpenGLTutorial/include"
+					"path" : "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/include"
 				}
 			],
 			"language" : "C",
@@ -69,14 +69,14 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g  "
+					"fragment" : "-g"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 3,
-					"path" : "/home/abdulmelik/Projects/OpenGLTutorial/include"
+					"path" : "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/include"
 				}
 			],
 			"language" : "CXX",

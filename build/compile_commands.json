@@ -1,27 +1,27 @@
 [
 {
-  "directory": "/home/abdulmelik/Projects/OpenGLTutorial/build",
-  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/abdulmelik/Projects/OpenGLTutorial/include  -g   -o CMakeFiles/OpenGLTutorials.dir/src/glad.c.o   -c /home/abdulmelik/Projects/OpenGLTutorial/src/glad.c",
-  "file": "/home/abdulmelik/Projects/OpenGLTutorial/src/glad.c"
+  "directory": "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-10  -I/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/include -g -o CMakeFiles/OpenGLTutorials.dir/src/glad.c.o -c /home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/src/glad.c",
+  "file": "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/src/glad.c"
 },
 {
-  "directory": "/home/abdulmelik/Projects/OpenGLTutorial/build",
-  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/abdulmelik/Projects/OpenGLTutorial/include  -g   -o CMakeFiles/OpenGLTutorials.dir/src/stb_image.cpp.o -c /home/abdulmelik/Projects/OpenGLTutorial/src/stb_image.cpp",
-  "file": "/home/abdulmelik/Projects/OpenGLTutorial/src/stb_image.cpp"
+  "directory": "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -I/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/include -g -o CMakeFiles/OpenGLTutorials.dir/src/stb_image.cpp.o -c /home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/src/stb_image.cpp",
+  "file": "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/src/stb_image.cpp"
 },
 {
-  "directory": "/home/abdulmelik/Projects/OpenGLTutorial/build",
-  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/abdulmelik/Projects/OpenGLTutorial/include  -g   -o CMakeFiles/OpenGLTutorials.dir/src/main.cpp.o -c /home/abdulmelik/Projects/OpenGLTutorial/src/main.cpp",
-  "file": "/home/abdulmelik/Projects/OpenGLTutorial/src/main.cpp"
+  "directory": "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -I/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/include -g -o CMakeFiles/OpenGLTutorials.dir/src/main.cpp.o -c /home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/src/main.cpp",
+  "file": "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/src/main.cpp"
 },
 {
-  "directory": "/home/abdulmelik/Projects/OpenGLTutorial/build",
-  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/abdulmelik/Projects/OpenGLTutorial/include  -g   -o CMakeFiles/OpenGLTutorials.dir/src/Shader.cpp.o -c /home/abdulmelik/Projects/OpenGLTutorial/src/Shader.cpp",
-  "file": "/home/abdulmelik/Projects/OpenGLTutorial/src/Shader.cpp"
+  "directory": "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -I/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/include -g -o CMakeFiles/OpenGLTutorials.dir/src/Shader.cpp.o -c /home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/src/Shader.cpp",
+  "file": "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/src/Shader.cpp"
 },
 {
-  "directory": "/home/abdulmelik/Projects/OpenGLTutorial/build",
-  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/abdulmelik/Projects/OpenGLTutorial/include  -g   -o CMakeFiles/OpenGLTutorials.dir/src/Texture.cpp.o -c /home/abdulmelik/Projects/OpenGLTutorial/src/Texture.cpp",
-  "file": "/home/abdulmelik/Projects/OpenGLTutorial/src/Texture.cpp"
+  "directory": "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -I/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/include -g -o CMakeFiles/OpenGLTutorials.dir/src/Texture.cpp.o -c /home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/src/Texture.cpp",
+  "file": "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/src/Texture.cpp"
 }
 ]

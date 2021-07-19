@@ -5,7 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/abdulmelik/Projects/OpenGLTutorial/src/glad.c" "/home/abdulmelik/Projects/OpenGLTutorial/build/CMakeFiles/OpenGLTutorials.dir/src/glad.c.o"
+  "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/src/glad.c" "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/build/CMakeFiles/OpenGLTutorials.dir/src/glad.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -14,10 +14,10 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "../include"
   )
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/abdulmelik/Projects/OpenGLTutorial/src/Shader.cpp" "/home/abdulmelik/Projects/OpenGLTutorial/build/CMakeFiles/OpenGLTutorials.dir/src/Shader.cpp.o"
-  "/home/abdulmelik/Projects/OpenGLTutorial/src/Texture.cpp" "/home/abdulmelik/Projects/OpenGLTutorial/build/CMakeFiles/OpenGLTutorials.dir/src/Texture.cpp.o"
-  "/home/abdulmelik/Projects/OpenGLTutorial/src/main.cpp" "/home/abdulmelik/Projects/OpenGLTutorial/build/CMakeFiles/OpenGLTutorials.dir/src/main.cpp.o"
-  "/home/abdulmelik/Projects/OpenGLTutorial/src/stb_image.cpp" "/home/abdulmelik/Projects/OpenGLTutorial/build/CMakeFiles/OpenGLTutorials.dir/src/stb_image.cpp.o"
+  "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/src/Shader.cpp" "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/build/CMakeFiles/OpenGLTutorials.dir/src/Shader.cpp.o"
+  "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/src/Texture.cpp" "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/build/CMakeFiles/OpenGLTutorials.dir/src/Texture.cpp.o"
+  "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/src/main.cpp" "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/build/CMakeFiles/OpenGLTutorials.dir/src/main.cpp.o"
+  "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/src/stb_image.cpp" "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/build/CMakeFiles/OpenGLTutorials.dir/src/stb_image.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

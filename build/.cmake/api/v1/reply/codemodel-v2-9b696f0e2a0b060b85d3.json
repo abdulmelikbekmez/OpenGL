@@ -38,7 +38,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "OpenGLTutorials::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-OpenGLTutorials-Debug-4013e3a5e842a5b273c6.json",
+					"jsonFile" : "target-OpenGLTutorials-Debug-85fb2df2bcecb095c28c.json",
 					"name" : "OpenGLTutorials",
 					"projectIndex" : 0
 				}
@@ -48,12 +48,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/abdulmelik/Projects/OpenGLTutorial/build",
-		"source" : "/home/abdulmelik/Projects/OpenGLTutorial"
+		"build" : "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials/build",
+		"source" : "/home/abdulmelikbekmez/Projects/OpenGL/OpenGLTutorials"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 0
+		"minor" : 1
 	}
 }
